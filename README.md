@@ -26,3 +26,6 @@
 
 Примечание:
 Список бесплатных API для работы с погодой можно найти тут: https://github.com/toddmotto/public-apis
+
+
+ССЫЛКА НА ВЫПОЛНЕННОЕ ЗАДАНИЕ: https://antropomorfise.github.io/weater/
